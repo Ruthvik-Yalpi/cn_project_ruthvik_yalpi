@@ -10,6 +10,10 @@ var some = [123004278,
     124004269];
 
 var a = 0;
+if(inp=="93BL01"){
+    a=1;
+    alert("Welcome Professor!!")
+}
 check_me(inp, some);
 
 function check_me(inp, some) {
