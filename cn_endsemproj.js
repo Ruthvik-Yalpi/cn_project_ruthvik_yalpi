@@ -14,7 +14,7 @@ if(inp=="93BL01"){
     a=1;
     alert("Welcome Professor!!")
 }
-
+check_me(inp,some);
 
 function check_me(inp, some) {
 
